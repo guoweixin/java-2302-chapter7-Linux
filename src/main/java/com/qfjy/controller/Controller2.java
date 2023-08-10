@@ -8,6 +8,6 @@ package com.qfjy.controller;
 public class Controller2 {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Z的java");
+        System.out.println("Z的j规范的三个地方ava");
     }
 }
